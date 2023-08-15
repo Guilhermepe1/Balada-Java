@@ -1,5 +1,11 @@
 package br.senai.sp.balada;
 
+/**
+ * Balada
+ * Data: 15/08/2023
+ * Autor: Guilherme Pereira
+ * */
+
 import java.util.Scanner;
 
 public class Balada {
